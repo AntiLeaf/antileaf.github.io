@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>旧的不去，新的不来</title>
+    <url>/2023/07/farewell/</url>
+    <content><![CDATA[<p>试图搬运旧博客的时候悲痛发现没复制数据库，而 WordPress 的文件夹里又没有 cache，基本上可以宣告找不回来了。</p>
+<p>可惜终归是可惜的。不过本来就已经退役了，过去的事情不再提也罢。</p>
+<p>上次重建博客是 22 年 7 月，说来可笑，去年因为状态完全不在线，其实重建之后也没写过多少题。重建之前倒是发过几道还算可以的题，不过感觉也没有什么值得搬过来的，那暂且就这样吧。</p>
+<p>Farewell.</p>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2023/07/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/2023/07/hello-world/avatar_full.png"
+                      alt="图片测试"
+                ></p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div>
 
 <p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
@@ -20,13 +38,13 @@
   </entry>
   <entry>
     <title>新的开始</title>
-    <url>/2023/07/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
+    <url>/2023/07/new-beginning/</url>
     <content><![CDATA[<p>大约两年前曾经在阿里云用 WordPress 自己搭过一个博客，还搞了 https 和备案。可惜由于前些时间疏于维护，还是懒得继续了。</p>
 <p>最近又有重建博客的念头，但是各家学生机都买过一遍了，不想多花钱。GitHub Pages 就很好，至少是免费的，并且折腾一下也很好看。</p>
 <p>这段时间应该会断断续续把以前的博客搬运过来。没了。</p>
 ]]></content>
-      <tags>
-        <tag>杂项</tag>
-      </tags>
+      <categories>
+        <category>杂项</category>
+      </categories>
   </entry>
 </search>
