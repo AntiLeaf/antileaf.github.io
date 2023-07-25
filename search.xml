@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>旧的不去，新的不来</title>
-    <url>/farewell/</url>
-    <content><![CDATA[<p>试图搬运旧博客的时候悲痛发现没复制数据库，而 WordPress 的文件夹里又没有 cache，基本上可以宣告找不回来了。</p>
-<p>可惜终归是可惜的。不过本来就已经退役了，过去的事情不再提也罢。</p>
-<p>上次重建博客是 22 年 7 月，说来可笑，去年因为状态完全不在线，其实重建之后也没写过多少题。重建之前倒是发过几道还算可以的题，不过感觉也没有什么值得搬过来的，那暂且就这样吧。</p>
-<p>Farewell.</p>
+    <title>搬砖黑话整理</title>
+    <url>/argots/</url>
+    <content><![CDATA[<ul>
+<li>PTAL: Please Take A Look, 摇人来 review</li>
+<li>LGTM: Looks Good To Me, 看起来不错</li>
+<li>cc: Carbon Copy, 抄送</li>
+<li>FYI: For Your Information, 供你参考</li>
+<li>TBD: To Be Determined/Done/…, 反正就是还没搞</li>
+<li>nuts: 本意是吹毛求疵，指无足轻重的小建议</li>
+<li>NO-OP: No Operation, 无需操作/什么都没改</li>
+</ul>
 ]]></content>
       <categories>
         <category>杂项</category>
@@ -55,6 +60,18 @@
       <tags>
         <tag>字符串, 回文树</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>旧的不去，新的不来</title>
+    <url>/farewell/</url>
+    <content><![CDATA[<p>试图搬运旧博客的时候悲痛发现没复制数据库，而 WordPress 的文件夹里又没有 cache，基本上可以宣告找不回来了。</p>
+<p>可惜终归是可惜的。不过本来就已经退役了，过去的事情不再提也罢。</p>
+<p>上次重建博客是 22 年 7 月，说来可笑，去年因为状态完全不在线，其实重建之后也没写过多少题。重建之前倒是发过几道还算可以的题，不过感觉也没有什么值得搬过来的，那暂且就这样吧。</p>
+<p>Farewell.</p>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
   </entry>
   <entry>
     <title>新的开始</title>
